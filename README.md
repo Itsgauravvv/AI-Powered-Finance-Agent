@@ -1,4 +1,4 @@
-# Gemini AI Finance Agent 🤖
+# AI Powered Finance Agent 🤖
 
 This is a full-stack AI-powered Finance Agent built with Python, the Agno framework, Gemini, and Streamlit. The agent serves two primary roles:
 
