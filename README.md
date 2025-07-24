@@ -93,7 +93,5 @@ Date,Description,Category,Amount
 **Sample Prompts:**
 
 -   `What are my biggest expenses this month?`
--   `How much did I spend on Dining?`
--   `Show me my spending as a pie chart.`
--   `How much can I save if I reduce my dining expenses by 20%?`
--   `Suggest a 3-month savings plan for me.`
+-   `Create a pie chart.`
+
