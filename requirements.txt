@@ -1,0 +1,10 @@
+streamlit
+python-dotenv
+pandas
+numpy
+nsepython
+matplotlib
+langchain
+langchain-google-genai
+faiss-cpu
+agno==1.7.5
